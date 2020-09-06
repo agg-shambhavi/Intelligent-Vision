@@ -15,7 +15,7 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
   <li> Group the faces of one person in a cluster </li>
   <li> Detect the face in the given image and encode it. </li>
   <li> Predict in which cluster will the query image belong to.</li>
-  <li> Retrieve all the frames in the predicted cluster <li>
+  <li> Retrieve all the frames in the predicted cluster </li>
  </ol>
  
  We have deployed the ML-Pipeline on a Web application using Flask.
