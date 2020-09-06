@@ -28,7 +28,7 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
 
 ## Team Members
 <ul>
-  <li> Shambhavi Aggarwal </li>
-  <li> Bhargav Akhani </li>
-  <li> Dharven Doshi </li>
+  <li>  [Shambhavi Aggarwal](https://github.com/agg-shambhavi) </li>
+  <li>  [Bhargav Akhani](https://github.com/bhargav2427)</li>
+  <li>  [Dharven Doshi](https://github.com/dharven) </li>
 </ul>
