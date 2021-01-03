@@ -26,9 +26,6 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
 <li>Back-end: Flask </li>
 <li>Machine Learning Libraries:  Numpy, Pandas, Sci-Kit Learn, Face-recognition, OpenCV </li>
 
-## Team Members
-<ul>
-  <li>  [Shambhavi Aggarwal](https://github.com/agg-shambhavi) </li>
-  <li>  [Bhargav Akhani](https://github.com/bhargav2427)</li>
-  <li>  [Dharven Doshi](https://github.com/dharven) </li>
-</ul>
+# Team Members
+This project was built by [Shambhavi Aggarwal](https://github.com/agg-shambhavi), [Bhargav Akhani](https://github.com/bhargav2427) and [Dharven Doshi](https://github.com/dharven)
+
