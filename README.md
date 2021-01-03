@@ -11,10 +11,10 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
 <ol>
   <li> Divide the video into frames. </li>
   <li> Detect faces in the frames and put those frames into a list. </li>
-  <li> Encode detected faces.</li>
-  <li> Group the faces of one person in a cluster </li>
-  <li> Detect the face in the given image and encode it. </li>
-  <li> Predict in which cluster will the query image belong to.</li>
+  <li> Encode detected faces using FaceNet(used face-recognition library).</li>
+  <li> Group the faces of one person in a cluster using DBSCAN Algorithm. </li>
+  <li> Detect the face in the query image and encode it. </li>
+  <li> Predict in which cluster will the query image belong to using SVM.</li>
   <li> Retrieve all the frames in the predicted cluster </li>
  </ol>
  
@@ -26,6 +26,6 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
 <li>Back-end: Flask </li>
 <li>Machine Learning Libraries:  Numpy, Pandas, Sci-Kit Learn, Face-recognition, OpenCV </li>
 
-# Team Members
+ # Team Members
 This project was built by [Shambhavi Aggarwal](https://github.com/agg-shambhavi), [Bhargav Akhani](https://github.com/bhargav2427) and [Dharven Doshi](https://github.com/dharven)
 
