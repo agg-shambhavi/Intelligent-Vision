@@ -31,7 +31,7 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
 | ![image](https://user-images.githubusercontent.com/48705124/103476093-c8149980-4dd8-11eb-8557-941f6a5ac795.png) | ![shambhavii](https://user-images.githubusercontent.com/48705124/103476179-7d475180-4dd9-11eb-8a14-e0322d21e337.jpg) |
 | Enter Query image & Video | Query Image |
 | ![input frames](https://user-images.githubusercontent.com/48705124/103476239-f5157c00-4dd9-11eb-9954-4c01bde6c521.jpg) | ![image](https://user-images.githubusercontent.com/48705124/103476289-62291180-4dda-11eb-9780-655864e2c3bc.png) |
-| Frames of the video | Inpainted |
+| Frames of the video | Results |
  
  # Tech-Stack
  <ul>
