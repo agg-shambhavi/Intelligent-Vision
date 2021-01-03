@@ -38,6 +38,7 @@ Let's automate this task and save some time!<br> Enter the suspect's picture and
   <li> Front-end : HTML, CSS, Bootstrap, JavaScript </li>
 <li>Back-end: Flask </li>
 <li>Machine Learning Libraries:  Numpy, Pandas, Sci-Kit Learn, Face-recognition, OpenCV </li>
+  </ul>
   
 
  # Team Members
